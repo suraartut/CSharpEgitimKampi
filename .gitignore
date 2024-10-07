@@ -1,0 +1,6 @@
+.vs/
+*.suo
+*.wsuo
+slnx.sqlite
+01_MainSubjects/obj/
+02_Variables/obj/
