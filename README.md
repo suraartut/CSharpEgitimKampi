@@ -1,4 +1,4 @@
-# 🚀 C# ile Programlama Yolculuğum: Eğitim Kampı Projeleri
+# 🚀 C# Eğitim Kampı: Başlangıçtan İleri Seviyeye Projelerim
 
 Murat Yücedağ eğitmenliğinde yürüttüğüm bu eğitim kampında, C# dilini ve programlama prensiplerini temel seviyeden ileri seviye konulara kadar öğrenme fırsatı buldum. Teorik bilgileri pratiğe dökerek geliştirme becerilerimi sistematik olarak güçlendirdim. Her proje ile kazandığım bilgi ve becerilere dair açıklamalar:
 
